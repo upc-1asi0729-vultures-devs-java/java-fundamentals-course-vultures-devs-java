@@ -87,9 +87,9 @@ Cada lección incluye:
 ### Lección 01: ¿Qué es Java y qué vamos a crear?
 
 - **Descripción:** El estudiante conoce qué es Java, cómo funciona un programa de consola y cómo imprimir mensajes usando `System.out.println`.
-- **Enlace:** Pendiente
+- **Enlace:** https://youtu.be/tibH6k4GJ-0
 - **Conclusiones clave:** Java permite crear programas mediante instrucciones; `main` es el punto de inicio; `System.out.println` imprime mensajes en consola.
-- **Empieza a programar:** Starter: Pendiente / Completed: Pendiente
+- **Empieza a programar:** Starter: https://www.mycompiler.io/view/AZl2EaOAVpT / Completed: https://www.mycompiler.io/view/4NgxxuDLnAv
 
 ### Lección 02: Variables y datos del jugador
 
@@ -122,7 +122,7 @@ Cada lección incluye:
 ### Lección 06: Métodos: acciones del jugador
 
 - **Descripción:** El estudiante organiza el código usando métodos para representar acciones del jugador.
-- **Enlace:** Pendiente
+- **Enlace:** https://youtu.be/dsMABhfD0Og
 - **Conclusiones clave:** Los métodos ayudan a ordenar, reutilizar y simplificar el código.
 - **Práctica:** Starter: https://www.mycompiler.io/view/BnqKSkUC8HO / Completed: https://www.mycompiler.io/view/CnISfKUibEE
 
@@ -174,7 +174,7 @@ Cada lección incluye:
 | Número de lección | Actividad | Empezar a programar |
 |---|---|---|
 | 00 | Elevator pitch | No aplica |
-| 01 | Primer programa en Java | Starter: Pendiente / Completed: Pendiente |
+| 01 | Primer programa en Java | Starter: https://www.mycompiler.io/view/AZl2EaOAVpT / Completed: https://www.mycompiler.io/view/4NgxxuDLnAv |
 | 02 | Variables del jugador | Starter: https://www.mycompiler.io/view/8q8BACZrNQa / Completed: https://www.mycompiler.io/view/0vPcYEzpAez |
 | 03 | Puntaje con operadores | Starter: https://www.mycompiler.io/view/9bmGbAmRF55 / Completed: https://www.mycompiler.io/view/Bxb6MYhip0o |
 | 04 | Decisiones con condicionales | Starter: https://www.mycompiler.io/view/Fo8woJo9DN1 / Completed: https://www.mycompiler.io/view/EBs5SaSCa9w |

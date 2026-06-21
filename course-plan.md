@@ -175,15 +175,15 @@ Cada lección incluye:
 |---|---|---|
 | 00 | Elevator pitch | No aplica |
 | 01 | Primer programa en Java | Starter: Pendiente / Completed: Pendiente |
-| 02 | Variables del jugador | Starter: Pendiente / Completed: Pendiente |
+| 02 | Variables del jugador | Starter: https://www.mycompiler.io/view/8q8BACZrNQa / Completed: https://www.mycompiler.io/view/0vPcYEzpAez |
 | 03 | Puntaje con operadores | Starter: Pendiente / Completed: Pendiente |
-| 04 | Decisiones con condicionales | Starter: Pendiente / Completed: Pendiente |
-| 05 | Repetición con bucles | Starter: Pendiente / Completed: Pendiente |
+| 04 | Decisiones con condicionales | Starter: https://www.mycompiler.io/view/Fo8woJo9DN1 / Completed: https://www.mycompiler.io/view/EBs5SaSCa9w |
+| 05 | Repetición con bucles | Starter: https://www.mycompiler.io/view/0yL9cfc7iJE / Completed: https://www.mycompiler.io/view/Fule0Eq0j0q |
 | 06 | Acciones con métodos | Starter: Pendiente / Completed: Pendiente |
-| 07 | Menú interactivo con Scanner | Starter: Pendiente / Completed: Pendiente |
+| 07 | Menú interactivo con Scanner | Starter: https://www.mycompiler.io/view/2MiXEy165BX / Completed: https://www.mycompiler.io/view/1jgcDetdsQH |
 | 08 | Clase Jugador | Starter: Pendiente / Completed: Pendiente |
 | 09 | Inventario con ArrayList | Starter: Pendiente / Completed: Pendiente |
-| 10 | Proyecto final integrado | Starter: Pendiente / Completed: Pendiente |
+| 10 | Proyecto final integrado | Starter: https://www.mycompiler.io/view/0bfFqZoikww / Completed: https://www.mycompiler.io/view/BPTf1WnqSfy |
 
 ## Estructura del repositorio
 

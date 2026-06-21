@@ -136,9 +136,9 @@ Cada lección incluye:
 ### Lección 08: Clases, objetos y constructores
 
 - **Descripción:** El estudiante inicia la programación orientada a objetos creando una clase `Jugador`.
-- **Enlace:** Pendiente
+- **Enlace:** https://youtu.be/5YdJrcI9XUs
 - **Conclusiones clave:** Una clase es un molde; un objeto se crea a partir de una clase; el constructor inicializa los datos del objeto.
-- **Práctica:** Starter: Pendiente / Completed: Pendiente
+- **Práctica:** Starter: https://www.mycompiler.io/view/06kQLCdHwSc / Completed: https://www.mycompiler.io/view/EF8XX6WmLFo
 
 ### Lección 09: Inventario con ArrayList
 
@@ -181,7 +181,7 @@ Cada lección incluye:
 | 05 | Repetición con bucles | Starter: https://www.mycompiler.io/view/0yL9cfc7iJE / Completed: https://www.mycompiler.io/view/Fule0Eq0j0q |
 | 06 | Acciones con métodos | Starter: Pendiente / Completed: Pendiente |
 | 07 | Menú interactivo con Scanner | Starter: https://www.mycompiler.io/view/2MiXEy165BX / Completed: https://www.mycompiler.io/view/1jgcDetdsQH |
-| 08 | Clase Jugador | Starter: Pendiente / Completed: Pendiente |
+| 08 | Clase Jugador | Starter: https://www.mycompiler.io/view/06kQLCdHwSc / Completed: https://www.mycompiler.io/view/EF8XX6WmLFo |
 | 09 | Inventario con ArrayList | Starter: Pendiente / Completed: Pendiente |
 | 10 | Proyecto final integrado | Starter: https://www.mycompiler.io/view/0bfFqZoikww / Completed: https://www.mycompiler.io/view/BPTf1WnqSfy |
 

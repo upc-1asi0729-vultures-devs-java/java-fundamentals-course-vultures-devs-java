@@ -78,82 +78,81 @@ Cada lección incluye:
 
 ## Secuencia de la Lección
 
-### Video 00: Elevator pitch del curso (2-3 minutos)
-
+### Video 00: Elevator pitch del curso
 - **Descripción:** Presenta el curso, el proyecto final y la forma en que el estudiante aprenderá Java creando una aventura de bloques.
 - **Enlace:** Pendiente
 - **Conclusiones clave:** El curso enseña Java desde cero mediante un proyecto práctico y progresivo.
 - **Práctica online:** No aplica.
 
-### Lección 01: ¿Qué es Java y qué vamos a crear? (5-7 minutos)
+### Lección 01: ¿Qué es Java y qué vamos a crear?
 
 - **Descripción:** El estudiante conoce qué es Java, cómo funciona un programa de consola y cómo imprimir mensajes usando `System.out.println`.
 - **Enlace:** Pendiente
 - **Conclusiones clave:** Java permite crear programas mediante instrucciones; `main` es el punto de inicio; `System.out.println` imprime mensajes en consola.
 - **Empieza a programar:** Starter: Pendiente / Completed: Pendiente
 
-### Lección 02: Variables y datos del jugador (5-7 minutos)
+### Lección 02: Variables y datos del jugador
 
 - **Descripción:** El estudiante aprende a crear variables para guardar información del jugador, como nombre, vida, energía, bloques y si tiene pico.
-- **Enlace:** Pendiente
+- **Enlace:** https://youtu.be/OO53-a4gI1I
 - **Conclusiones clave:** Las variables guardan datos; `String` guarda texto; `int` guarda números enteros; `boolean` guarda verdadero o falso.
-- **Práctica:** Starter: Pendiente / Completed: Pendiente
+- **Práctica:** Starter: https://www.mycompiler.io/view/8q8BACZrNQa / Completed: https://www.mycompiler.io/view/0vPcYEzpAez
 
-### Lección 03: Operadores y puntaje de aventura (5-7 minutos)
+### Lección 03: Operadores y puntaje de aventura
 
 - **Descripción:** El estudiante usa operadores aritméticos y expresiones para calcular puntaje, recursos y energía.
 - **Enlace:** Pendiente
 - **Conclusiones clave:** Los operadores permiten sumar, restar, multiplicar y comparar valores.
 - **Práctica:** Starter: Pendiente / Completed: Pendiente
 
-### Lección 04: Condicionales para sobrevivir (5-7 minutos)
+### Lección 04: Condicionales para sobrevivir
 
 - **Descripción:** El estudiante aprende a tomar decisiones usando `if`, `else if` y `else`.
 - **Enlace:** Pendiente
 - **Conclusiones clave:** Los condicionales permiten ejecutar diferentes instrucciones según una condición.
 - **Práctica:** Starter: Pendiente / Completed: Pendiente
 
-### Lección 05: Bucles para repetir acciones (5-7 minutos)
+### Lección 05: Bucles para repetir acciones
 
 - **Descripción:** El estudiante aprende a repetir acciones usando `for` y `while`.
-- **Enlace:** Pendiente
+- **Enlace:** https://youtu.be/GTjcalx5MAw
 - **Conclusiones clave:** `for` permite repetir una acción una cantidad conocida de veces; `while` repite mientras una condición sea verdadera.
-- **Práctica:** Starter: Pendiente / Completed: Pendiente
+- **Práctica:** Starter: https://www.mycompiler.io/view/0yL9cfc7iJE / Completed: https://www.mycompiler.io/view/Fule0Eq0j0q
 
-### Lección 06: Métodos: acciones del jugador (6-8 minutos)
+### Lección 06: Métodos: acciones del jugador
 
 - **Descripción:** El estudiante organiza el código usando métodos para representar acciones del jugador.
 - **Enlace:** Pendiente
 - **Conclusiones clave:** Los métodos ayudan a ordenar, reutilizar y simplificar el código.
 - **Práctica:** Starter: Pendiente / Completed: Pendiente
 
-### Lección 07: Scanner y menú interactivo (6-8 minutos)
+### Lección 07: Scanner y menú interactivo
 
 - **Descripción:** El estudiante aprende a leer datos desde consola usando `Scanner` y crea un menú interactivo.
-- **Enlace:** Pendiente
+- **Enlace:** https://youtu.be/LWwPWPrAMak
 - **Conclusiones clave:** `Scanner` permite recibir datos del usuario; un menú permite elegir acciones dentro del programa.
-- **Práctica:** Starter: Pendiente / Completed: Pendiente
+- **Práctica:** Starter: https://www.mycompiler.io/view/2MiXEy165BX / Completed: https://www.mycompiler.io/view/1jgcDetdsQH
 
-### Lección 08: Clases, objetos y constructores (6-8 minutos)
+### Lección 08: Clases, objetos y constructores
 
 - **Descripción:** El estudiante inicia la programación orientada a objetos creando una clase `Jugador`.
 - **Enlace:** Pendiente
 - **Conclusiones clave:** Una clase es un molde; un objeto se crea a partir de una clase; el constructor inicializa los datos del objeto.
 - **Práctica:** Starter: Pendiente / Completed: Pendiente
 
-### Lección 09: Inventario con ArrayList (6-8 minutos)
+### Lección 09: Inventario con ArrayList
 
 - **Descripción:** El estudiante aprende a usar `ArrayList<String>` para guardar objetos recolectados durante la aventura.
 - **Enlace:** Pendiente
 - **Conclusiones clave:** `ArrayList` permite guardar varios elementos y recorrerlos con un bucle.
 - **Práctica:** Starter: Pendiente / Completed: Pendiente
 
-### Lección 10: Proyecto final y errores comunes (6-8 minutos)
+### Lección 10: Proyecto final y errores comunes
 
 - **Descripción:** El estudiante integra los conceptos aprendidos, prueba la aplicación final y revisa errores frecuentes de Java.
-- **Enlace:** Pendiente
+- **Enlace:** https://youtu.be/QR3cqh0ypNI
 - **Conclusiones clave:** El proyecto final combina variables, operadores, condicionales, bucles, métodos, `Scanner`, clases, objetos y `ArrayList`.
-- **Proyecto final:** Starter: Pendiente / Completed: Pendiente
+- **Proyecto final:** Starter: https://www.mycompiler.io/view/0bfFqZoikww / Completed: https://www.mycompiler.io/view/BPTf1WnqSfy
 
 ## Recursos adicionales
 

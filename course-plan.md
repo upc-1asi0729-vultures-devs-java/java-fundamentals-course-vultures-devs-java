@@ -80,7 +80,7 @@ Cada lección incluye:
 
 ### Video 00: Elevator pitch del curso
 - **Descripción:** Presenta el curso, el proyecto final y la forma en que el estudiante aprenderá Java creando una aventura de bloques.
-- **Enlace:** Pendiente
+- **Enlace:** https://youtu.be/OUuV5iLbTYM
 - **Conclusiones clave:** El curso enseña Java desde cero mediante un proyecto práctico y progresivo.
 - **Práctica online:** No aplica.
 
@@ -108,9 +108,9 @@ Cada lección incluye:
 ### Lección 04: Condicionales para sobrevivir
 
 - **Descripción:** El estudiante aprende a tomar decisiones usando `if`, `else if` y `else`.
-- **Enlace:** Pendiente
+- **Enlace:** https://youtu.be/wc1_Olld4b4
 - **Conclusiones clave:** Los condicionales permiten ejecutar diferentes instrucciones según una condición.
-- **Práctica:** Starter: Pendiente / Completed: Pendiente
+- **Práctica:** Starter: https://www.mycompiler.io/view/Fo8woJo9DN1 / Completed: https://www.mycompiler.io/view/EBs5SaSCa9w
 
 ### Lección 05: Bucles para repetir acciones
 

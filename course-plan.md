@@ -101,9 +101,9 @@ Cada lección incluye:
 ### Lección 03: Operadores y puntaje de aventura
 
 - **Descripción:** El estudiante usa operadores aritméticos y expresiones para calcular puntaje, recursos y energía.
-- **Enlace:** Pendiente
+- **Enlace:** https://youtu.be/-ohWBf88424
 - **Conclusiones clave:** Los operadores permiten sumar, restar, multiplicar y comparar valores.
-- **Práctica:** Starter: Pendiente / Completed: Pendiente
+- **Práctica:** Starter: https://www.mycompiler.io/view/9bmGbAmRF55 / Completed: https://www.mycompiler.io/view/Bxb6MYhip0o
 
 ### Lección 04: Condicionales para sobrevivir
 
@@ -124,7 +124,7 @@ Cada lección incluye:
 - **Descripción:** El estudiante organiza el código usando métodos para representar acciones del jugador.
 - **Enlace:** Pendiente
 - **Conclusiones clave:** Los métodos ayudan a ordenar, reutilizar y simplificar el código.
-- **Práctica:** Starter: Pendiente / Completed: Pendiente
+- **Práctica:** Starter: https://www.mycompiler.io/view/BnqKSkUC8HO / Completed: https://www.mycompiler.io/view/CnISfKUibEE
 
 ### Lección 07: Scanner y menú interactivo
 
@@ -176,10 +176,10 @@ Cada lección incluye:
 | 00 | Elevator pitch | No aplica |
 | 01 | Primer programa en Java | Starter: Pendiente / Completed: Pendiente |
 | 02 | Variables del jugador | Starter: https://www.mycompiler.io/view/8q8BACZrNQa / Completed: https://www.mycompiler.io/view/0vPcYEzpAez |
-| 03 | Puntaje con operadores | Starter: Pendiente / Completed: Pendiente |
+| 03 | Puntaje con operadores | Starter: https://www.mycompiler.io/view/9bmGbAmRF55 / Completed: https://www.mycompiler.io/view/Bxb6MYhip0o |
 | 04 | Decisiones con condicionales | Starter: https://www.mycompiler.io/view/Fo8woJo9DN1 / Completed: https://www.mycompiler.io/view/EBs5SaSCa9w |
 | 05 | Repetición con bucles | Starter: https://www.mycompiler.io/view/0yL9cfc7iJE / Completed: https://www.mycompiler.io/view/Fule0Eq0j0q |
-| 06 | Acciones con métodos | Starter: Pendiente / Completed: Pendiente |
+| 06 | Acciones con métodos | Starter: https://www.mycompiler.io/view/BnqKSkUC8HO / Completed: https://www.mycompiler.io/view/CnISfKUibEE |
 | 07 | Menú interactivo con Scanner | Starter: https://www.mycompiler.io/view/2MiXEy165BX / Completed: https://www.mycompiler.io/view/1jgcDetdsQH |
 | 08 | Clase Jugador | Starter: https://www.mycompiler.io/view/06kQLCdHwSc / Completed: https://www.mycompiler.io/view/EF8XX6WmLFo |
 | 09 | Inventario con ArrayList | Starter: Pendiente / Completed: Pendiente |
@@ -243,7 +243,7 @@ java-fundamentals-course-vultures-devs-java/
 
 **NRC:** 12010
 
-**Nombre del equipo:** vultures devs
+**Nombre del equipo:** vultures devs java
 
 **Líder del equipo:** Diego Sebastian Yucra Sandoval
 **Integrantes del equipo:**

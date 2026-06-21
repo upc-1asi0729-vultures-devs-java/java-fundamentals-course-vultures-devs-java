@@ -1,148 +1,47 @@
 # Java desde cero: crea tu aventura de bloques
 
+## Resumen del Curso
+
+Este curso introduce a estudiantes de secundaria a los fundamentos de la programación con Java mediante una aplicación de consola inspirada en aventuras de bloques.
+
+El estudiante aprenderá Java paso a paso construyendo una pequeña aventura interactiva donde podrá crear un jugador, manejar vida y energía, minar bloques, explorar una cueva, descansar, guardar objetos en un inventario y aplicar programación orientada a objetos.
+
+El curso no requiere instalación local. Las prácticas se realizan desde el navegador web usando myCompiler.
+
+**Duración total estimada:** ~70 minutos
+
+**Público objetivo:** Estudiantes de 12 a 17 años sin experiencia previa en programación.
+
+**Prerrequisitos:** Ninguno.
+
+**Herramientas necesarias:** Solo navegador web.
+
+**Editor online principal:** myCompiler.
+
+**Repositorio de código fuente:**  
+https://github.com/upc-1asi0729-vultures-devs-java/java-fundamentals-course-vultures-devs-java
+
 ## Información general del curso
 
 **Nombre del curso:** Java desde cero: crea tu aventura de bloques
 
 **Nombre del equipo/startup:** vultures-devs-java
 
-**Repositorio GitHub:**  
-https://github.com/upc-1asi0729-vultures-devs-java/java-fundamentals-course-vultures-devs-java
-
-**Editor online principal:** Replit
-
 **Modalidad:** Curso introductorio con videos no listados en YouTube y prácticas online.
 
-## Resumen del curso
-
-Este curso introduce los fundamentos de Java mediante una aplicación de consola inspirada en juegos de bloques. El estudiante aprenderá a crear un programa paso a paso, empezando con mensajes simples en consola y avanzando hasta construir una pequeña aventura interactiva con jugador, vida, energía, recursos, inventario y programación orientada a objetos.
-
-La propuesta utiliza ejemplos cercanos al público objetivo, como personajes, exploración, bloques, diamantes, energía e inventario, para explicar conceptos de programación de forma didáctica y progresiva.
-
-## Público objetivo
-
-El curso está dirigido a estudiantes de secundaria entre 12 y 17 años que desean aprender programación desde cero usando Java.
-
-No se requiere experiencia previa en programación.
+**Proyecto final:** Aventura de Bloques en Java
 
 ## Objetivo general
 
-Al finalizar el curso, el estudiante será capaz de crear una aplicación básica de consola en Java aplicando variables, operadores, condicionales, bucles, métodos, entrada de datos, clases, objetos, constructores y colecciones básicas con `ArrayList`.
+Al finalizar el curso, el estudiante será capaz de crear una aplicación básica de consola en Java aplicando variables, operadores, condicionales, bucles, métodos, entrada de datos con `Scanner`, clases, objetos, constructores y colecciones básicas con `ArrayList`.
 
 ## Proyecto final
 
 El proyecto final será una aplicación de consola llamada **Aventura de Bloques en Java**.
 
-El programa permitirá al usuario controlar un jugador en una aventura de bloques. El jugador tendrá vida, energía, recursos e inventario. Además, podrá realizar acciones como ver su estado, minar bloques, explorar, descansar y guardar objetos recolectados.
+El programa permitirá al usuario controlar un jugador en una aventura de bloques. El jugador tendrá vida, energía, recursos e inventario. Además, podrá realizar acciones como ver su estado, minar bloques, explorar una cueva, descansar y guardar objetos recolectados.
 
-## Herramientas
-
-- Java.
-- Replit.
-- GitHub.
-- YouTube.
-- Markdown.
-
-## Metodología
-
-Cada capítulo tendrá una breve introducción visual mediante diapositivas y luego una demostración práctica en Replit. El estudiante podrá abrir los archivos iniciales para practicar y comparar su avance con los ejemplos completados.
-
-Cada lección incluye:
-
-- Video explicativo.
-- Presentación introductoria breve.
-- Código inicial.
-- Código completado.
-- Práctica online en Replit.
-- Script resumido en Markdown.
-
-## Plan de lecciones
-
-| Video | Tema | Duración estimada | Conceptos principales | Video YouTube | Práctica online |
-|---|---|---:|---|---|---|
-| 00 | Elevator pitch del curso | 2-3 min | Presentación del curso, proyecto final y llamado a la acción | Pendiente | No aplica |
-| 01 | ¿Qué es Java y qué vamos a crear? | 5-7 min | Java, consola, `main`, `System.out.println` | Pendiente | Starter: Pendiente / Completed: Pendiente |
-| 02 | Variables y datos del jugador | 5-7 min | `String`, `int`, `boolean`, variables | Pendiente | Starter: Pendiente / Completed: Pendiente |
-| 03 | Operadores y puntaje de aventura | 5-7 min | Operadores aritméticos, comparación y expresiones | Pendiente | Starter: Pendiente / Completed: Pendiente |
-| 04 | Condicionales para sobrevivir | 5-7 min | `if`, `else if`, `else`, operadores lógicos | Pendiente | Starter: Pendiente / Completed: Pendiente |
-| 05 | Bucles para repetir acciones | 5-7 min | `for`, `while`, contadores y repetición | Pendiente | Starter: Pendiente / Completed: Pendiente |
-| 06 | Métodos: acciones del jugador | 5-7 min | Métodos, parámetros, `void`, retorno | Pendiente | Starter: Pendiente / Completed: Pendiente |
-| 07 | Scanner y menú interactivo | 5-7 min | `Scanner`, entrada de datos, menú de consola | Pendiente | Starter: Pendiente / Completed: Pendiente |
-| 08 | Clases, objetos y constructores | 6-8 min | Clase, objeto, atributos, constructor | Pendiente | Starter: Pendiente / Completed: Pendiente |
-| 09 | Inventario con ArrayList | 6-8 min | `ArrayList<String>`, agregar elementos, recorrer lista | Pendiente | Starter: Pendiente / Completed: Pendiente |
-| 10 | Proyecto final y errores comunes | 6-8 min | Integración del proyecto, pruebas y errores frecuentes | Pendiente | Starter: Pendiente / Completed: Pendiente |
-
-## Descripción de cada lección
-
-### Video 00 - Elevator pitch del curso
-
-Este video presenta el curso, explica qué aprenderá el estudiante y muestra la idea general del proyecto final. Se utiliza una apertura breve y motivadora, conectada con juegos de bloques y aventuras interactivas.
-
-No incluye código.
-
-### Lección 01 - ¿Qué es Java y qué vamos a crear?
-
-El estudiante conoce qué es Java, cómo funciona un programa de consola y cómo imprimir mensajes usando `System.out.println`.
-
-**Resultado:** primer mensaje de bienvenida a la aventura de bloques.
-
-### Lección 02 - Variables y datos del jugador
-
-El estudiante aprende a crear variables para guardar información del jugador, como nombre, vida, energía, cantidad de bloques y si tiene pico.
-
-**Resultado:** ficha inicial del jugador.
-
-### Lección 03 - Operadores y puntaje de aventura
-
-El estudiante usa operadores aritméticos y expresiones para calcular puntaje, recursos y estado de aventura.
-
-**Resultado:** cálculo de puntaje basado en vida, energía y recursos.
-
-### Lección 04 - Condicionales para sobrevivir
-
-El estudiante aprende a tomar decisiones usando `if`, `else if` y `else`.
-
-**Resultado:** el programa decide si el jugador puede explorar, debe descansar o necesita recuperar vida.
-
-### Lección 05 - Bucles para repetir acciones
-
-El estudiante aprende a repetir acciones usando `for` y `while`.
-
-**Resultado:** simulación de minado de varios bloques sin repetir código manualmente.
-
-### Lección 06 - Métodos: acciones del jugador
-
-El estudiante organiza el código en métodos para representar acciones del juego.
-
-**Resultado:** métodos para mostrar estado, minar, explorar y descansar.
-
-### Lección 07 - Scanner y menú interactivo
-
-El estudiante aprende a leer datos desde consola usando `Scanner`.
-
-**Resultado:** menú interactivo para que el usuario elija acciones.
-
-### Lección 08 - Clases, objetos y constructores
-
-El estudiante inicia la programación orientada a objetos creando una clase `Jugador`.
-
-**Resultado:** clase `Jugador` con atributos, constructor y métodos básicos.
-
-### Lección 09 - Inventario con ArrayList
-
-El estudiante aprende a usar `ArrayList<String>` para guardar objetos recolectados durante la aventura.
-
-**Resultado:** inventario del jugador con objetos como bloques, diamantes y comida.
-
-### Lección 10 - Proyecto final y errores comunes
-
-El estudiante integra los conceptos aprendidos, prueba la aplicación final y revisa errores frecuentes.
-
-**Resultado:** versión final de la aplicación **Aventura de Bloques en Java**.
-
-## Proyecto final esperado
-
-Al finalizar el curso, el estudiante tendrá una aplicación de consola en Java con una estructura similar a esta:
+Ejemplo del menú final:
 
 ```txt
 === Aventura de Bloques ===
@@ -154,12 +53,207 @@ Al finalizar el curso, el estudiante tendrá una aplicación de consola en Java 
 6. Salir
 ```
 
-La aplicación aplicará conceptos de Java y programación orientada a objetos en un contexto didáctico y cercano al estudiante.
+## Herramientas
 
-## Elaboración en equipo
+- Java.
+- myCompiler como editor online.
+- GitHub para almacenar el código fuente.
+- YouTube para publicar las lecciones en video como no listadas.
+- Markdown para documentar el plan del curso y los scripts.
 
-Nombre del equipo/startup:
+## Metodología
+
+Cada capítulo tendrá una breve introducción visual mediante diapositivas y luego una demostración práctica en myCompiler.
+
+El estudiante podrá abrir los archivos iniciales para practicar y comparar su avance con los ejemplos completados.
+
+Cada lección incluye:
+
+- Video explicativo.
+- Presentación introductoria breve.
+- Código inicial.
+- Código completado.
+- Práctica online en myCompiler.
+- Script resumido en Markdown.
+
+## Secuencia de la Lección
+
+### Video 00: Elevator pitch del curso (2-3 minutos)
+
+- **Descripción:** Presenta el curso, el proyecto final y la forma en que el estudiante aprenderá Java creando una aventura de bloques.
+- **Enlace:** Pendiente
+- **Conclusiones clave:** El curso enseña Java desde cero mediante un proyecto práctico y progresivo.
+- **Práctica online:** No aplica.
+
+### Lección 01: ¿Qué es Java y qué vamos a crear? (5-7 minutos)
+
+- **Descripción:** El estudiante conoce qué es Java, cómo funciona un programa de consola y cómo imprimir mensajes usando `System.out.println`.
+- **Enlace:** Pendiente
+- **Conclusiones clave:** Java permite crear programas mediante instrucciones; `main` es el punto de inicio; `System.out.println` imprime mensajes en consola.
+- **Empieza a programar:** Starter: Pendiente / Completed: Pendiente
+
+### Lección 02: Variables y datos del jugador (5-7 minutos)
+
+- **Descripción:** El estudiante aprende a crear variables para guardar información del jugador, como nombre, vida, energía, bloques y si tiene pico.
+- **Enlace:** Pendiente
+- **Conclusiones clave:** Las variables guardan datos; `String` guarda texto; `int` guarda números enteros; `boolean` guarda verdadero o falso.
+- **Práctica:** Starter: Pendiente / Completed: Pendiente
+
+### Lección 03: Operadores y puntaje de aventura (5-7 minutos)
+
+- **Descripción:** El estudiante usa operadores aritméticos y expresiones para calcular puntaje, recursos y energía.
+- **Enlace:** Pendiente
+- **Conclusiones clave:** Los operadores permiten sumar, restar, multiplicar y comparar valores.
+- **Práctica:** Starter: Pendiente / Completed: Pendiente
+
+### Lección 04: Condicionales para sobrevivir (5-7 minutos)
+
+- **Descripción:** El estudiante aprende a tomar decisiones usando `if`, `else if` y `else`.
+- **Enlace:** Pendiente
+- **Conclusiones clave:** Los condicionales permiten ejecutar diferentes instrucciones según una condición.
+- **Práctica:** Starter: Pendiente / Completed: Pendiente
+
+### Lección 05: Bucles para repetir acciones (5-7 minutos)
+
+- **Descripción:** El estudiante aprende a repetir acciones usando `for` y `while`.
+- **Enlace:** Pendiente
+- **Conclusiones clave:** `for` permite repetir una acción una cantidad conocida de veces; `while` repite mientras una condición sea verdadera.
+- **Práctica:** Starter: Pendiente / Completed: Pendiente
+
+### Lección 06: Métodos: acciones del jugador (6-8 minutos)
+
+- **Descripción:** El estudiante organiza el código usando métodos para representar acciones del jugador.
+- **Enlace:** Pendiente
+- **Conclusiones clave:** Los métodos ayudan a ordenar, reutilizar y simplificar el código.
+- **Práctica:** Starter: Pendiente / Completed: Pendiente
+
+### Lección 07: Scanner y menú interactivo (6-8 minutos)
+
+- **Descripción:** El estudiante aprende a leer datos desde consola usando `Scanner` y crea un menú interactivo.
+- **Enlace:** Pendiente
+- **Conclusiones clave:** `Scanner` permite recibir datos del usuario; un menú permite elegir acciones dentro del programa.
+- **Práctica:** Starter: Pendiente / Completed: Pendiente
+
+### Lección 08: Clases, objetos y constructores (6-8 minutos)
+
+- **Descripción:** El estudiante inicia la programación orientada a objetos creando una clase `Jugador`.
+- **Enlace:** Pendiente
+- **Conclusiones clave:** Una clase es un molde; un objeto se crea a partir de una clase; el constructor inicializa los datos del objeto.
+- **Práctica:** Starter: Pendiente / Completed: Pendiente
+
+### Lección 09: Inventario con ArrayList (6-8 minutos)
+
+- **Descripción:** El estudiante aprende a usar `ArrayList<String>` para guardar objetos recolectados durante la aventura.
+- **Enlace:** Pendiente
+- **Conclusiones clave:** `ArrayList` permite guardar varios elementos y recorrerlos con un bucle.
+- **Práctica:** Starter: Pendiente / Completed: Pendiente
+
+### Lección 10: Proyecto final y errores comunes (6-8 minutos)
+
+- **Descripción:** El estudiante integra los conceptos aprendidos, prueba la aplicación final y revisa errores frecuentes de Java.
+- **Enlace:** Pendiente
+- **Conclusiones clave:** El proyecto final combina variables, operadores, condicionales, bucles, métodos, `Scanner`, clases, objetos y `ArrayList`.
+- **Proyecto final:** Starter: Pendiente / Completed: Pendiente
+
+## Recursos adicionales
+
+- **Código fuente completo:**  
+  https://github.com/upc-1asi0729-vultures-devs-java/java-fundamentals-course-vultures-devs-java
+
+- **Scripts de las lecciones:** disponibles en la carpeta `scripts`.
+
+- **Archivos iniciales:** disponibles en la carpeta `starter-files`.
+
+- **Ejemplos completados:** disponibles en la carpeta `completed-examples`.
+
+- **Cuestionario:** Pendiente.
+
+- **Compartir:** #JavaBeginners #JavaDesdeCero
+
+## Todas las actividades prácticas
+
+| Número de lección | Actividad | Empezar a programar |
+|---|---|---|
+| 00 | Elevator pitch | No aplica |
+| 01 | Primer programa en Java | Starter: Pendiente / Completed: Pendiente |
+| 02 | Variables del jugador | Starter: Pendiente / Completed: Pendiente |
+| 03 | Puntaje con operadores | Starter: Pendiente / Completed: Pendiente |
+| 04 | Decisiones con condicionales | Starter: Pendiente / Completed: Pendiente |
+| 05 | Repetición con bucles | Starter: Pendiente / Completed: Pendiente |
+| 06 | Acciones con métodos | Starter: Pendiente / Completed: Pendiente |
+| 07 | Menú interactivo con Scanner | Starter: Pendiente / Completed: Pendiente |
+| 08 | Clase Jugador | Starter: Pendiente / Completed: Pendiente |
+| 09 | Inventario con ArrayList | Starter: Pendiente / Completed: Pendiente |
+| 10 | Proyecto final integrado | Starter: Pendiente / Completed: Pendiente |
+
+## Estructura del repositorio
 
 ```txt
-vultures-devs-java
+java-fundamentals-course-vultures-devs-java/
+│
+├── README.md
+├── course-plan.md
+│
+├── starter-files/
+│   ├── lesson-01/
+│   ├── lesson-02/
+│   ├── lesson-03/
+│   ├── lesson-04/
+│   ├── lesson-05/
+│   ├── lesson-06/
+│   ├── lesson-07/
+│   ├── lesson-08/
+│   ├── lesson-09/
+│   └── lesson-10/
+│
+├── completed-examples/
+│   ├── lesson-01/
+│   ├── lesson-02/
+│   ├── lesson-03/
+│   ├── lesson-04/
+│   ├── lesson-05/
+│   ├── lesson-06/
+│   ├── lesson-07/
+│   ├── lesson-08/
+│   ├── lesson-09/
+│   └── lesson-10/
+│
+└── scripts/
+    ├── lesson-00-script.md
+    ├── lesson-01-script.md
+    ├── lesson-02-script.md
+    ├── lesson-03-script.md
+    ├── lesson-04-script.md
+    ├── lesson-05-script.md
+    ├── lesson-06-script.md
+    ├── lesson-07-script.md
+    ├── lesson-08-script.md
+    ├── lesson-09-script.md
+    └── lesson-10-script.md
 ```
+
+## Elaboración
+
+**Universidad Peruana de Ciencias Aplicadas**
+
+**Carrera:** Ingeniería de Software
+
+**Período:** 202610
+
+**Curso:** 1ASI0729 Desarrollo de Aplicaciones Open Source
+
+**NRC:** 12010
+
+**Nombre del equipo:** vultures devs
+
+**Líder del equipo:** Diego Sebastian Yucra Sandoval
+**Integrantes del equipo:**
+
+- Cesar Fernando Marin Cueva
+- Gerard Gianpier Rojas Mancilla
+- Gino Rodrigo Torrejón De Los Santos
+- Joaquin Francisco Verde Bueno
+- Diego Sebastian Yucra Sandoval
+**Fecha de entrega:** 20 de junio del año 2026
+
+**¡Gracias por completar el curso!**

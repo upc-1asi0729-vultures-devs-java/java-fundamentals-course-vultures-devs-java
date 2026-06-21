@@ -165,8 +165,6 @@ Cada lección incluye:
 
 - **Ejemplos completados:** disponibles en la carpeta `completed-examples`.
 
-- **Cuestionario:** Pendiente.
-
 - **Compartir:** #JavaBeginners #JavaDesdeCero
 
 ## Todas las actividades prácticas

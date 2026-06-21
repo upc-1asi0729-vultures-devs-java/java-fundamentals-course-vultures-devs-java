@@ -143,9 +143,9 @@ Cada lección incluye:
 ### Lección 09: Inventario con ArrayList
 
 - **Descripción:** El estudiante aprende a usar `ArrayList<String>` para guardar objetos recolectados durante la aventura.
-- **Enlace:** Pendiente
+- **Enlace:** https://youtu.be/Ci5Dor6Yv4w
 - **Conclusiones clave:** `ArrayList` permite guardar varios elementos y recorrerlos con un bucle.
-- **Práctica:** Starter: Pendiente / Completed: Pendiente
+- **Práctica:** Starter: https://www.mycompiler.io/view/6WagoFe8jiC / Completed: https://www.mycompiler.io/view/IhVokYWExbM
 
 ### Lección 10: Proyecto final y errores comunes
 
@@ -182,7 +182,7 @@ Cada lección incluye:
 | 06 | Acciones con métodos | Starter: https://www.mycompiler.io/view/BnqKSkUC8HO / Completed: https://www.mycompiler.io/view/CnISfKUibEE |
 | 07 | Menú interactivo con Scanner | Starter: https://www.mycompiler.io/view/2MiXEy165BX / Completed: https://www.mycompiler.io/view/1jgcDetdsQH |
 | 08 | Clase Jugador | Starter: https://www.mycompiler.io/view/06kQLCdHwSc / Completed: https://www.mycompiler.io/view/EF8XX6WmLFo |
-| 09 | Inventario con ArrayList | Starter: Pendiente / Completed: Pendiente |
+| 09 | Inventario con ArrayList | Starter: https://www.mycompiler.io/view/6WagoFe8jiC / Completed: https://www.mycompiler.io/view/IhVokYWExbM |
 | 10 | Proyecto final integrado | Starter: https://www.mycompiler.io/view/0bfFqZoikww / Completed: https://www.mycompiler.io/view/BPTf1WnqSfy |
 
 ## Estructura del repositorio
